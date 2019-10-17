@@ -1,0 +1,108 @@
+.blockone {
+   background-color: red;
+   width:20%;
+   height:40px;
+   float:left;
+   margin-left;10px;
+}
+.blocktwo {
+	background-color: yellow;
+    width:50%;
+    height:40px;
+    float:right;
+	margin-right;10px;
+}
+.blockthree {
+	background-color: green; 
+    width:100%;
+    height:40px;
+    float:right;
+}
+.blockfour {
+    background-color: purple;
+    width:20%;
+    height:40px; 
+	margin-right:10px;
+	float: right;
+}
+.blokfive {
+    background-color: orange;
+    width:100%;
+    height:40px; 
+	float: right;	
+}
+.blocksix  {
+	background-color: grey;
+	width:20%;
+	height:40px;
+	float: left;
+	margin-left:10px;
+}
+.blockseven  {
+	background-color: black;
+	width:20%;
+	height:40px;
+	float: right;
+	margin-left:10px;
+}
+.blockeight  {
+    background-color: brown;
+    width:20%;
+    height:40px; 
+	margin-right:130px;
+	float: right;
+}
+.blocknine {
+	background-color: teal;
+	width:30%;
+	height:40px;
+	float:left;
+	margin-left:5px;	
+}
+.blockten {
+	background-color: blue;
+	width:65%;
+	height:40px;
+	margin-left:5px;
+    float: right;	
+}
+.blockeleven {
+	background-color: gold;
+	width:35%;
+	height:40px;
+	margin-left:130px;
+    float: left;
+}
+.blocktwelve {
+	background-color: silver;
+	width:35%;
+	height:40px;
+	margin-left:5px;
+    float: right;
+}
+.blockthirteen {
+	background-color: navy;
+	width:100%;
+	height:40px;
+    float: right;
+}
+.blockfourteen  {
+	background-color: grey;
+	width:20%;
+	height:40px;
+	float: left;
+	margin-left:10px;
+}
+.blockfiftheen  {
+	background-color: black;
+	width:20%;
+	height:40px;
+	float: right;
+	margin-left:10px;
+}
+.blocksixteen  {
+    background-color: brown;
+    width:20%;
+    height:40px; 
+	margin-right:130px;
+	float: right;
